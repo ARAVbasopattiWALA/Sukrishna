@@ -1,0 +1,6 @@
+{
+  "name": "Shukrishna Attendance Tracker",
+  "description": "Background SMS-based automatic attendance and study hours tracker for Sukrishna Commerce, Kankarbagh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
